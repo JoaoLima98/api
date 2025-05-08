@@ -4,7 +4,7 @@
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/JoaoLima98/seu-repositorio.git
+   git clone ...
    ```
 
 2. **Acesse o diretório do projeto**:
